@@ -1,0 +1,27 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
+title = "Mirza"
+# copyright = "Mirza"
+
+[params]
+  dateFormat = "2 January 2006"
+
+  description = "Personal website of Mirza"
+
+[params.author]
+  name = "Mirza Razibul Isalm Shatu"
+  image = "img/rsz_picture.png"
+  headline = "Statistician & Data Scientist"
+  bio = "Statistician & Data Scientist"
+  links = [
+    
+    { kaggle = "https://www.kaggle.com/mirzashatuislam" },
+    
+    { github = "https://github.com/mirzashatu" },
+    { medium = "https://medium.com/@mirzashatu" },
+    { linkedin = "https://www.linkedin.com/in/mirzashatu/" },
+    
+  ]
