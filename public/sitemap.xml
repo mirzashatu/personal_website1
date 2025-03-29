@@ -9,6 +9,22 @@
     
   
     
+      <url>
+            <loc>http://localhost:1313/about/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/contact/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/cv/</loc>
+          </url>
+    
   
     
   

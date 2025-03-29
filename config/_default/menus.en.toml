@@ -11,31 +11,36 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Blog"
-  pageRef = "posts"
+  name = "About"
+  url = "/about/"
   weight = 10
+  
 
+
+
+
+  
 [[main]]
-  name = "Categories"
-  pageRef = "categories"
-  weight = 20
-
+  name = "Blog"
+  url = "https://mirzashatu.medium.com"
+  weight = 50
+  
 [[main]]
-  name = "Tags"
-  pageRef = "tags"
-  weight = 30
-
+  name = "CV"
+  url = "/cv/"
+  weight = 60
+  
 [[main]]
-  identifier = "search"
-  weight = 99
-  [main.params]
-    action = "search"
-
+  name = "Contact"
+  url = "/contact/"
+  weight = 70
+  
 [[main]]
   identifier = "locale"
   weight = 100
   [main.params]
     action = "locale"
+
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
