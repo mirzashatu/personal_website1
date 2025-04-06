@@ -18,7 +18,7 @@ title = "Mirza"
   bio = "Statistician & Data Scientist"
   links = [
     
-    { kaggle = "https://www.kaggle.com/mirzashatuislam" },
+    { kickstarter = "https://www.kaggle.com/mirzashatuislam" },
     
     { github = "https://github.com/mirzashatu" },
     { medium = "https://medium.com/@mirzashatu" },
